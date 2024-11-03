@@ -1,7 +1,7 @@
 site_name: TJ's Tutorials
 site_url: https://sitename.example
 theme:
-  name: material
+  name: materials
   font:
     text: Merriweather Sans
     code: Red Hat Mono
